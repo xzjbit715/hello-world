@@ -3,10 +3,10 @@
 // @namespace    https://github.com/xzjbit715/
 // @version      0.1
 // @description  鳥哥的私房菜 取消空白背景
-// @author       You
+// @author       xzjbit715
 // @match        https://linux.vbird.org/*
-// @downloadURL  https://github.com/xzjbit715/hello-world/blob/master/userscript/vbirdStyle.user.js
-// @updateURL    https://github.com/xzjbit715/hello-world/blob/master/userscript/vbirdStyle.user.js
+// @downloadURL  https://github.com/xzjbit715/hello-world/raw/master/userscript/vbirdStyle.user.js
+// @updateURL    https://github.com/xzjbit715/hello-world/raw/master/userscript/vbirdStyle.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=vbird.org
 // @grant        GM_addStyle
 // ==/UserScript==
